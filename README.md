@@ -47,7 +47,5 @@ A standalone strava_analysis.py script (and matching Jupyter notebook) make reru
 To run the analysis locally, follow these steps:
 1. Clone the repository:
    git clone https://github.com/pscarrasco/Strava.git
-2. Install the required dependencies:
-   pip install -r requirements.txt
-3. Open the Jupyter Notebook file.
-4. Run the project.
+2. Open the Jupyter Notebook file.
+3. Run the project.
